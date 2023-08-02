@@ -9,11 +9,6 @@ use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
 
 
-
-
-
-
-
 if (isset($_POST['log'])) {
  
   if (empty($_POST["email"])) {
@@ -109,13 +104,13 @@ function test_input($data) {
 <html lang="en">
 
 
-<!-- Mirrored from astropex.online/ by HTTrack Website Copier/3.x [XR&CO'2014], Sun, 12 Jul 2020 13:07:06 GMT -->
-<!-- Added by HTTrack -->
-<!-- Mirrored from secure.astropex.online/ by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 23 Dec 2020 20:33:59 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
 <head>
-    <title>Dpdbanca</title>
+    <title>wraxham</title>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">      <title></title>
@@ -150,8 +145,8 @@ function test_input($data) {
 					<div class="top-menu-left">
 						<p>Need help? Contact Us</p>
 						<b><i class="fa fa-phone"></i> +1 (860) 703‑3523</b>
-						<b><i class="fa fa-envelope"></i><a style="color:#fff;" href="mailto:info@dpdbanca.com">info@dpdbanca.com</a></b>
-						<b><i class="fa fa-envelope"></i><a style="color:#fff;" href="mailto:info@dpdbanca.com">info@dpdbanca.com</a></b>
+						<b><i class="fa fa-envelope"></i><a style="color:#fff;" href="mailto:info@wraxham.com">info@wraxham.com</a></b>
+						<b><i class="fa fa-envelope"></i><a style="color:#fff;" href="mailto:info@wraxham.com">info@wraxham.com</a></b>
 					</div>				
 				</div>				
 				<!--<div class="col-md-6">
@@ -619,7 +614,7 @@ function test_input($data) {
 									<div class="innerBannerContent row">
 										<div class="col-sm-7">
 											<h2>Discover our new 95% mortgages</h2>
-											<p>We are making it easier for first time buyers to get on the property ladder. Available on property purDpdbanca.</p>
+											<p>We are making it easier for first time buyers to get on the property ladder. Available on property purwraxham.</p>
 											<a href="mortgages.html">Find out more</a>
 										</div>
 										<div class="col-sm-5">
@@ -840,13 +835,13 @@ function test_input($data) {
 							<li>
 								<a href="growing-your-wealth.html">
 									<i class="icon-business-medium" aria-hidden="true"></i>
-									<span>Dpdbanca for Business</span>
+									<span>wraxham for Business</span>
 								</a>
 							</li>
 							<li>
 								<a href="protecting-what-matters.html">
 									<i class="icon-cpc-medium" aria-hidden="true"></i>
-									<span>Dpdbanca Private Client</span>
+									<span>wraxham Private Client</span>
 								</a>
 							</li>
 						</ul>
@@ -856,7 +851,7 @@ function test_input($data) {
 				<div class="col-md-3 no-padding">				
 					<div class="single-colorful-feature feature-color-1">
 						<h2><a href="bank-accounts.html">Bank Accounts<i class="fa fa-angle-right" aria-hidden="true"></i></a></h2>
-						<p>Discover the benefits of a bank account from Dpdbanca.</p>	
+						<p>Discover the benefits of a bank account from wraxham.</p>	
 					</div>									
 				</div>					
 				<div class="col-md-3 no-padding">				
@@ -1031,7 +1026,7 @@ function myFunction() {
 								<div class="media">
 								  <div class="media-body">
 									<h2>Account questions? Just ask me.</h2>
-									<p>I’m just a few taps away — open your Dpdbanca® mobile app and say hello.</p>
+									<p>I’m just a few taps away — open your wraxham® mobile app and say hello.</p>
 									<a class="bussiness-btn-larg" href="contactandsupport.html">ask questions</a>
 								  </div>
 								</div>
@@ -1081,7 +1076,7 @@ function myFunction() {
 					</div>
 					<div class="col-md-3">
 						<h5> Find a branch </h5>
-						<a href="branch-locator.html">Find your nearest Dpdbanca Banking location</a>
+						<a href="branch-locator.html">Find your nearest wraxham Banking location</a>
 					</div>							
 					<div class="col-md-3">	
 						<h5> Our performance </h5>
@@ -1089,7 +1084,7 @@ function myFunction() {
 					</div>
 
 					<div class="col-md-3">	
-						<h5> About Dpdbanca </h5>								
+						<h5> About wraxham </h5>								
 						<a href="why-invest-with-us.html">Careers, media, investor and corporate information</a>							
 					</div>					
 
@@ -1099,7 +1094,7 @@ function myFunction() {
                                 <div class="row">	
                                     <div class="col-md-6">	
                                         <div class="footer-info-left">	
-                                            <!--<p><a href="#">Dpdbanca Banking Group</a></p>-->
+                                            <!--<p><a href="#">wraxham Banking Group</a></p>-->
                                             <img style="max-width:125px;" src="logofooter.svg" class="d-inline-block align-top" alt="">
                                         </div>			
                                     </div>			
